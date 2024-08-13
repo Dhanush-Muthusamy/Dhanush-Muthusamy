@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhanush-Muthusamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dhanush_Muthusamy?theme=dark&font=Abhaya%20Libre&ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
