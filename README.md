@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning
+B.Tech AI&ML
 
 
 ## 🌐 Socials:
